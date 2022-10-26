@@ -1,0 +1,17 @@
+C:\Users\emir_\source\repos\maastankalan\maastankalan\bin\Debug\net6.0-windows\maastankalan.exe
+C:\Users\emir_\source\repos\maastankalan\maastankalan\bin\Debug\net6.0-windows\maastankalan.deps.json
+C:\Users\emir_\source\repos\maastankalan\maastankalan\bin\Debug\net6.0-windows\maastankalan.runtimeconfig.json
+C:\Users\emir_\source\repos\maastankalan\maastankalan\bin\Debug\net6.0-windows\maastankalan.dll
+C:\Users\emir_\source\repos\maastankalan\maastankalan\bin\Debug\net6.0-windows\maastankalan.pdb
+C:\Users\emir_\source\repos\maastankalan\maastankalan\obj\Debug\net6.0-windows\maastankalan.csproj.AssemblyReference.cache
+C:\Users\emir_\source\repos\maastankalan\maastankalan\obj\Debug\net6.0-windows\maastankalan.Form1.resources
+C:\Users\emir_\source\repos\maastankalan\maastankalan\obj\Debug\net6.0-windows\maastankalan.csproj.GenerateResource.cache
+C:\Users\emir_\source\repos\maastankalan\maastankalan\obj\Debug\net6.0-windows\maastankalan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir_\source\repos\maastankalan\maastankalan\obj\Debug\net6.0-windows\maastankalan.AssemblyInfoInputs.cache
+C:\Users\emir_\source\repos\maastankalan\maastankalan\obj\Debug\net6.0-windows\maastankalan.AssemblyInfo.cs
+C:\Users\emir_\source\repos\maastankalan\maastankalan\obj\Debug\net6.0-windows\maastankalan.csproj.CoreCompileInputs.cache
+C:\Users\emir_\source\repos\maastankalan\maastankalan\obj\Debug\net6.0-windows\maastankalan.dll
+C:\Users\emir_\source\repos\maastankalan\maastankalan\obj\Debug\net6.0-windows\refint\maastankalan.dll
+C:\Users\emir_\source\repos\maastankalan\maastankalan\obj\Debug\net6.0-windows\maastankalan.pdb
+C:\Users\emir_\source\repos\maastankalan\maastankalan\obj\Debug\net6.0-windows\maastankalan.genruntimeconfig.cache
+C:\Users\emir_\source\repos\maastankalan\maastankalan\obj\Debug\net6.0-windows\ref\maastankalan.dll
